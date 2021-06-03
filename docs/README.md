@@ -76,6 +76,7 @@
 | `C#`                      | [Executor-Cheng/mirai-CSharp]               |
 | `C#`                      | [Hyperai][theGravityLab/ProjHyperai]        |
 | `C#`                      | [Coloryr/ColorMirai]                        |
+| `Ruby`                    | [Shimogawa/rubirai]                         |
 | `Rust`                    | [HoshinoTented/mirai-rs]                    |
 | `JavaScript` / Node.js    | [RedBeanN/node-mirai]                       |
 | `JavaScript` / TypeScript | [YunYouJun/mirai-ts]                        |
